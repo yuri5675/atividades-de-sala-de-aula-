@@ -14,7 +14,7 @@ Inicio
 
 
 para i de 1 ate 5 passo 1 faca
-escreva (" digite o numero:")
+escreva (" digite o" ,i," º numero:")
  leia ( numero )
  
  
